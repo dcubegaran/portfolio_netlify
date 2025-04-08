@@ -36,7 +36,7 @@ export default function Hero() {
           Turning Ideas into Reality
         </p>
         <a
-          href="https://drive.google.com/file/d/1-Z7iOEfgq_Iz8w468NzSPpVh9hZwXEIw/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1PMSEG4U9oxwnUZimIRs3B-ag4qLFs3ZI/view?usp=sharing"
           download
           className={`${roboto.className} animate-fadeIn `}
           style={{ textDecoration: "none" ,
